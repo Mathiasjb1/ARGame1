@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/animatronicanim/Doors1.unity
+    guid: 040efa00d5cc29240975cb11d0afe0d5
+  - enabled: 0
+    path: Assets/animatronicanim/Doors2.unity
+    guid: c2aa0a9f3813abe4b9684c10127e4679
+  - enabled: 1
+    path: Assets/animatronicanim/Doors2 1.unity
+    guid: 2755075cd716a1840b866a518330fbcb
+  - enabled: 1
+    path: Assets/animatronicanim/Door3Lose.unity
+    guid: 203005e834f648f428543e7058742c86
+  - enabled: 1
+    path: Assets/animatronicanim/Door4Win.unity
+    guid: 1655d80cb324c0540be8ad836150fec4
+  - enabled: 0
+    path: Assets/animatronicanim/testscene2.unity
+    guid: ecfec698081a13a4088964d4b264918d
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4ec75d5e410787247b6187b894b8f08a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c326806035e44ad43a39cba2a8c67b99, type: 2}
